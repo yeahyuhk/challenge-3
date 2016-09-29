@@ -1,3 +1,4 @@
+//sample code taken from katherine bennett 
 float [] x = new float [10];
 void setup() {
   size(500, 500);
